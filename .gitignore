@@ -1,0 +1,15 @@
+# Segredos e dados locais
+/config/local.php
+.env
+.env.*
+!.env.example
+*.log
+*.bak
+*.sql.gz
+*.dump
+*.sqlite
+*.sqlite3
+/vendor/
+/node_modules/
+.DS_Store
+Thumbs.db
